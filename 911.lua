@@ -1,3 +1,4 @@
+-- Created by Clark Productions 2024 --
 -- Function to handle the /911 command
 local function handle911Command(player, location, emergencyType)
     -- Example: Display a message in the console
