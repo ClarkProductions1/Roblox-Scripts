@@ -1,3 +1,4 @@
+-- Created by Clark Productions 2024 --
 local DataStoreService = game:GetService("DataStoreService")
 local PLAYER_DATA_STORE = "PlayerData" -- Name of the data store
 
