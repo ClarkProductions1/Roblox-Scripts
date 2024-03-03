@@ -1,3 +1,4 @@
+-- Created by Clark Productions 2024 --
 local ADMIN_COMMANDS = {
     "kill",
     "godmode",
