@@ -1,3 +1,4 @@
+-- Created by Clark Productions 2024 --
 -- Define the panic button object
 local panicButton = script.Parent
 
