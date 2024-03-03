@@ -1,3 +1,4 @@
+-- Created by Clark Productions 2024 --
 -- Anti-cheat script for detecting speed hacks
 
 local MAX_SPEED = 50 -- Maximum allowed speed in studs per second
